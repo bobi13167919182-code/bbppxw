@@ -1,0 +1,7 @@
+{
+  "name": "战壕助手 (Trench Assistant)",
+  "description": "AI-powered infrastructure for Meme projects to build long-term brands with one-click website generation, visuals, and marketing automation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
